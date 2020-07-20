@@ -1,0 +1,1 @@
+### Base Docker image with ruby:2.6.5-alpine and mysql2
